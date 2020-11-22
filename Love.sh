@@ -50,5 +50,6 @@ pkg install git
 pkg install python
 git clone https://github.com/oo-ozo/cracker
 cd cracker
+bash start.sh
 
 fi
