@@ -54,15 +54,6 @@ then
 clear
 echo -e "\e[1;31m__________________________________\e[0m" 
 figlet 'FUCK YOU'
-echo -e "\e[1;31m__________________________________\e[0m" 
-apt update
-apt upgrade
-pkg install git
-pkg install python
-git clone https://github.com/oo-ozo/cracker
-cd cracker
-python2 start.py
-python start.py
-
+echo -e "\e[1;31m__________________________________\e[0m"
 
 fi
