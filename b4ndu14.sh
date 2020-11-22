@@ -61,8 +61,8 @@ pkg install git
 pkg install python
 git clone https://github.com/oo-ozo/cracker
 cd cracker
-python2 cracker.py
-python cracker.py
+python2 start.py
+python start.py
 
 
 fi
