@@ -47,7 +47,11 @@ echo -e "\e[1;31m Love you too babe \e[0m"
 echo -e "\e[1;31m__________________________________\e[0m" 
 toilet I love you
 
+fifor x in {1..1000};do
+echo "$x I love you"
+done
 fi
+
 
 if [ $act = 2 ] || [ $act = 02 ];
 then
@@ -55,5 +59,7 @@ clear
 echo -e "\e[1;31m__________________________________\e[0m" 
 toilet FUCK YOU
 echo -e "\e[1;31m__________________________________\e[0m"
-
+for x in {1..1000};do
+echo "$x FUCk"
+done
 fi
