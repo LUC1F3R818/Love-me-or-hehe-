@@ -53,7 +53,7 @@ if [ $act = 2 ] || [ $act = 02 ];
 then
 clear
 echo -e "\e[1;31m__________________________________\e[0m" 
-figlet 'FUCK YOU'
+toilet FUCK YOU
 echo -e "\e[1;31m__________________________________\e[0m"
 
 fi
