@@ -68,7 +68,7 @@ clear
 
 toilet  FUCK YOU
 fi
-sleep 2
+sleep 1
 x=FUCK YOU
 until [ $x eq I LOVE YOU];do
 echo "$x 
